@@ -1,14 +1,18 @@
 $BADGE
 
+
+
 ## Deploy your own
 
 [![Deploy to Begin](https://static.begin.com/deploy-to-begin.svg)](https://begin.com/apps/create?template=https://github.com/begin-examples/node-tape-data)
 
 Deploy your own clone of this app to Begin!
 
-## Getting started
+## Usage
 
+- Install dependencies: `npm i`
 - Run your tests: `npm t`
+- Open `/test/data-test.js` to view example tests.
 
 ## Reference
 
